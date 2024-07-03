@@ -12,9 +12,9 @@ Your team can revise/add more sections._
 
 # Team members
 
-1. Member 1, email
-2. Member 2, email
-3. Member 3, email
+1. Amaan Bilwar, bilwarad@mail.uc.edu
+2. Shreya Chandra, chandsa@mail.uc.edu
+3. Ana Cedillo, cedillak@mail.uc.edu
 
 # Project Management Information
 
